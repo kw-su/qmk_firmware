@@ -1,0 +1,6 @@
+{
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "mpu-6050.h": "c"
+    }
+}
